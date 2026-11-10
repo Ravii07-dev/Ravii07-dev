@@ -1,60 +1,73 @@
-# Hi, I’m Ravilochan Bhandari 👋
+<div align="center">
 
-I am a Java full-stack developer and Computer Science graduate from Parul University, based in Vadodara, Gujarat. I build backend applications with Java and Spring Boot and create modern web interfaces. I have also worked on machine learning projects.
+# Hi, I'm Ravilochan Bhandari 👋
 
-## About me
+### Java Full Stack Developer
 
-- 🎓 Graduated in Computer Science & Engineering from Parul University (2022–2026)
-- 💻 Frontend Developer Intern at Charitean Innotechseva Foundation (Jan–Apr 2026)
-- 🔍 Experience with QA activities, code reviews, bug triage, and root-cause analysis in Agile sprint cycles
-- 🗣️ Languages: Hindi and English
+Java · Spring Boot · React · MySQL
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravilochan-bhandari-b29a00249)
 
-**Primary focus:** Java full-stack development  
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Java full-stack developer and Computer Science & Engineering graduate from Parul University. I enjoy building backend applications with Java and Spring Boot and creating responsive web interfaces.
+
+- 🎓 B.Tech in Computer Science & Engineering, Parul University (2022–2026)
+- 💼 Frontend Developer Intern at Charitean Innotechseva Foundation (Jan–Apr 2026)
+- 🌐 Based in Vadodara, Gujarat, India
+- 🗣️ Hindi and English
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
 **Languages:** Java, JavaScript, C, SQL  
-**Frontend:** React.js, Tailwind CSS, Redux Toolkit, HTML, CSS, Vite  
-**Backend:** Node.js, Express.js, Spring Boot, Spring Security, Hibernate, JDBC, Spring Data JPA  
+**Backend:** Spring Boot, Spring Security, Hibernate, JDBC, Spring Data JPA, Node.js, Express.js  
+**Frontend:** React.js, Redux Toolkit, Tailwind CSS, HTML, CSS, Vite  
 **Databases:** MySQL, MongoDB  
-**Tools and concepts:** Git, AWS, Axios, REST APIs, CRUD, OOP, MVC, Agile, SDLC, exception handling, data preprocessing, NLP basics  
-**Quality and evaluation:** QA participation, code reviews, bug triage, root-cause analysis, accuracy, precision, recall, F1-score
+**Tools:** Git, AWS, Axios, REST APIs
 
-## Experience
+## 💼 Experience
 
-### Frontend Developer Intern — Charitean Innotechseva Foundation
+### Frontend Developer Intern · Charitean Innotechseva Foundation
 *January 2026 – April 2026*
 
-- Built and improved 10+ UI components for a React.js and Vite admin panel.
+- Built 10+ UI components for a React.js and Vite admin panel.
 - Created responsive interfaces with Tailwind CSS and managed application state with Redux Toolkit.
 - Integrated 5+ REST APIs using Axios for real-time data synchronization.
-- Took part in code reviews, QA, feature documentation, and requirement checks across sprint cycles.
-- Worked with cross-functional teammates to resolve technical blockers and investigate issues.
+- Participated in code reviews, QA activities, and feature documentation across sprint cycles.
 
-## Projects
+## 🚀 Projects
 
 ### Fake Product Detection System
-*Python, machine learning, NLP, Flask, React.js*
+*Python · Machine Learning · NLP · Flask · React.js*
 
-- Built an ML and NLP application to identify potentially fraudulent e-commerce reviews.
-- Collected 5,000+ customer reviews and metadata using a web scraper.
-- Preprocessed review text with tokenization and TF-IDF, then compared Naive Bayes, SVM, and Random Forest models using standard classification metrics.
-- Achieved approximately 87% classification accuracy in model evaluation.
-- Created a React.js interface with a Flask API for review analysis and credibility insights.
+Built an application to identify potentially fraudulent e-commerce reviews. Collected 5,000+ reviews, compared multiple classification models, and achieved approximately 87% accuracy. The React frontend connects to a Flask API for review analysis.
 
-### ShopIt — Online Grocery Web App
-*React.js, Node.js, Express.js, MongoDB*
+### ShopIt · Online Grocery Web App
+*React.js · Node.js · Express.js · MongoDB*
 
-- Developed a full-stack grocery delivery application with 8+ product categories.
-- Implemented REST APIs for products, users, cart, and order management.
-- Built a responsive React.js frontend and MongoDB-backed data persistence.
-- Worked across the application, from database schema design to interface development.
+Developed a grocery delivery app with 8+ product categories. Implemented REST APIs for products, users, cart, and orders, with a responsive React frontend and MongoDB data persistence.
 
-## Education
+## 🎓 Education
 
 **Bachelor of Technology in Computer Science & Engineering**  
 Parul University · September 2022 – May 2026  
 CGPA: 7.18 / 10
 
-## Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravilochan-bhandari-b29a00249)
+<div align="center">
+
+Thanks for visiting my profile!
+
+</div>
