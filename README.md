@@ -17,7 +17,7 @@ Java · Spring Boot · Spring Security · Hibernate · JDBC · Spring Data JPA �
 I am a Java full-stack developer and Computer Science & Engineering graduate from Parul University. I enjoy building backend applications with Java and Spring Boot and creating responsive web interfaces.
 
 - 🎓 B.Tech in Computer Science & Engineering, Parul University (2022–2026)
-- 💼 Frontend Developer Intern at Charitean Innotechseva Foundation (Jan–Apr 2026)
+- 💼 Software Developer Intern at Charitean Innotechseva Foundation (Jan–Apr 2026)
 - 🌐 Based in Vadodara, Gujarat, India
 - 🗣️ Hindi and English
 
@@ -45,7 +45,7 @@ I am a Java full-stack developer and Computer Science & Engineering graduate fro
 
 ## 💼 Experience
 
-### Frontend Developer Intern · Charitean Innotechseva Foundation
+### Software Developer Intern · Charitean Innotechseva Foundation
 *January 2026 – April 2026*
 
 - Built 10+ UI components for a React.js and Vite admin panel.
