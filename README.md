@@ -30,11 +30,12 @@ I am a Java full-stack developer and Computer Science & Engineering graduate fro
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Languages:** Java, JavaScript, C, SQL  
-**Backend:** Spring Boot, Spring Security, Hibernate, JDBC, Spring Data JPA, Node.js, Express.js  
-**Frontend:** React.js, Redux Toolkit, Tailwind CSS, HTML, CSS, Vite  
+**Java & Core Concepts:** Java, OOP, exception handling, MVC architecture  
+**Spring & Backend:** Spring Boot, Spring Security, Hibernate, JDBC, Spring Data JPA, Node.js, Express.js  
+**Frontend:** JavaScript, React.js, Redux Toolkit, Tailwind CSS, HTML, CSS, Vite  
+**APIs & Development:** REST APIs, CRUD operations  
 **Databases:** MySQL, MongoDB  
-**Tools:** Git, AWS, Axios, REST APIs
+**Tools:** Git, AWS, Axios
 
 ## 💼 Experience
 
